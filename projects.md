@@ -11,48 +11,63 @@ title: Projects
 </head>
 <div class="container">
   <div class="row justify-content-between project-row">
-    <div class="col-4">
-      <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="..." alt="Card image cap">
-        <div class="card-body">
-          <h4 class="card-title">Noher</h4>
-          <p class="card-text">An AI powered car diagnostic app</p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+    <div class="col-12">
+      <div class="card project-card">
+        <div class="col-4 project-image">
+          <img class="card-img-top" src="..." alt="Card image cap">
         </div>
-      </div>
-    </div>
-    <div class="col-4">
-      <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="..." alt="Card image cap">
-        <div class="card-body">
-          <h4 class="card-title">MaTodo app</h4>
-          <p class="card-text">An AI powered daily task app</p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+        <div class="col-8 project-content">
+          <div class="card-body">
+            <h4 class="card-title">Noher</h4>
+            <p class="card-text">An AI powered car diagnostic app</p>
+          </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="row justify-content-between">
-    <div class="col-4">
-      <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="..." alt="Card image cap">
-        <div class="card-body">
-          <h4 class="card-title">Movly</h4>
-          <p class="card-text">Bookmark movie to watch at your local cinema. Get update of the showing date from the app</p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+  <div class="row justify-content-between project-row">
+    <div class="col-12">
+      <div class="card project-card">
+        <div class="col-4 project-image">
+          <img class="card-img-top" src="..." alt="Card image cap">
+        </div>
+        <div class="col-8 project-content">
+          <div class="card-body">
+            <h4 class="card-title">MaTodo app</h4>
+            <p class="card-text">An AI powered daily task app</p>
+          </div>
         </div>
       </div>
     </div>
-    <div class="col-4">
-      <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="..." alt="Card image cap">
-        <div class="card-body">
-          <h4 class="card-title">FindCityBicycle</h4>
-          <p class="card-text">Find the nearest city bicycle in real time. Showing the amount of bicycle in different locations.</p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+  <div class="row justify-content-between project-row">
+    <div class="col-12">
+      <div class="card project-card">
+        <div class="col-4 project-image">
+          <img class="card-img-top" src="..." alt="Card image cap">      
+        </div>
+        <div class="col-8 project-content">
+          <div class="card-body">
+            <h4 class="card-title">Movly</h4>
+            <p class="card-text">Bookmark movie to watch at your local cinema. Get update of the showing date from the app</p>
+          </div>
         </div>
       </div>
-    </div>
+    </div>    
+  </div>
+  <div class="row justify-content-between project-row">
+    <div class="col-12">
+      <div class="card project-card">
+        <div class="col-4 project-image">
+          <img class="card-img-top" src="..." alt="Card image cap">
+        </div>
+        <div class="col-8 project-content">
+          <div class="card-body">
+            <div class="card-title">FindCityBicycle</div>
+            <p class="card-text">Find the nearest city bicycle in real time. Showing the amount of bicycle in different locations.</p>
+          </div>
+        </div>
+      </div>
   </div>
 </div>
 
