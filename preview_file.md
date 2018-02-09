@@ -1,0 +1,1 @@
+In 2008, I started my journey when I started an University program in Information Technology. Moving to finland was a big step for me as an 18 year old who has not travelled outside of Nigeria, but it was an interesting challenge that I was willing to take. 
